@@ -1,1 +1,1 @@
-サルでもわかるGitコマンド
+Git command which monkey can understand hehe
